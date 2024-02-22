@@ -519,3 +519,49 @@ img {
     width: 450px;
   }
 }
+
+
+
+
+
+
+
+
+
+
+.contact-section {
+  background-color: var(--first-color);
+  color: #fff;
+  padding: 4rem 0;
+  text-align: center;
+}
+
+.contact-section h2 {
+  font-size: var(--big-font-size);
+  margin-bottom: var(--mb-4);
+}
+
+.contact-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.contact-section li {
+  margin-bottom: var(--mb-2);
+}
+
+.contact-section li a {
+  color: #fff;
+}
+
+.contact-section li a:hover {
+  color: var(--second-color);
+}
+
+.contact-section .container {
+  max-width: 768px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
